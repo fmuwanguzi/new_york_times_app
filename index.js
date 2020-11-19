@@ -32,15 +32,7 @@ app.get('/', (req,res) => {
                 }
                 console.log(finalObject);
             }
-            //display titile
-            
-            //byline
-
-            //publication date
-
-            //url link 
-
-            //headline
+          
         }
     })
     .catch(err => {
